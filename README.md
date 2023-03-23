@@ -1,2 +1,2 @@
 # study
-Linux-CLI
+web, Linux-CLI ...
